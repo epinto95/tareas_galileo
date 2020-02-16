@@ -1,5 +1,5 @@
 var mes=10;
-var nombre="Ervin Antonio Pinto", carne="20002516";
+var nombre="Ervin A. Pinto Salazar", carne="20002516";
 if (mes==1 || mes==2 || mes==12) {
   document.write("Es invierno")
 }
